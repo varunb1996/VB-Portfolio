@@ -130,7 +130,7 @@ export default function Hero() {
               <div className="absolute inset-0 rounded-full bg-gradient-to-br from-emerald-400 to-indigo-500 blur-md opacity-20 scale-105" />
               <div className="relative w-56 h-56 sm:w-64 sm:h-64 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-white shadow-2xl shadow-emerald-100">
                 <img
-                  src="/portfolio.jpeg"
+                  src={`${import.meta.env.BASE_URL}portfolio.jpeg`}
                   alt="Varun Bukka"
                   className="w-full h-full object-cover object-center"
                 />
