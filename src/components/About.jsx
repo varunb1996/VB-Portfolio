@@ -28,7 +28,7 @@ const timeline = [
   {
     year: 'Jan 2022–Present',
     role: 'AI/ML Engineer (Freelance)',
-    org: 'GAIA Initiative (Remote)',
+    org: 'Remote',
     desc: 'Designing and shipping production AI systems end-to-end — from large-scale RAG pipelines ingesting 5M+ monthly records across 10TB of unstructured data, to multi-agent orchestration platforms and privacy-preserving federated models. Containerised 15+ ML microservices achieving 99.5% API availability at 1,000+ concurrent requests.',
     color: 'text-emerald-600',
     dot: 'bg-emerald-500',

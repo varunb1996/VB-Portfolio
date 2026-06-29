@@ -51,7 +51,7 @@ const RESPONSES = {
   '/experience': [
     '$ cat experience.json',
     '',
-    '[1] AI/ML Engineer — GAIA Initiative (Jan 2022 – Present)',
+    '[1] AI/ML Engineer (Freelance) — Jan 2022 – Present',
     '    → Built RAG pipelines processing 5M+ monthly records',
     '    → 15+ ML microservices, 99.5% uptime at 1k+ RPS',
     '    → Multi-agent orchestration with Claude, LLaMA, Mixtral',
