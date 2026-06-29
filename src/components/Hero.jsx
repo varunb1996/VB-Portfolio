@@ -66,14 +66,24 @@ export default function Hero() {
             </button>
           ))}
         </div>
-        <a
-          href="https://github.com/varunb1996"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-xs font-mono border border-emerald-500/40 text-emerald-700 px-4 py-1.5 rounded-full hover:bg-emerald-50 transition-all duration-200 font-semibold"
-        >
-          GitHub ↗
-        </a>
+        <div className="flex items-center gap-2">
+          <a
+            href="https://github.com/varunb1996"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-xs font-mono border border-emerald-500/40 text-emerald-700 px-4 py-1.5 rounded-full hover:bg-emerald-50 transition-all duration-200 font-semibold"
+          >
+            GitHub ↗
+          </a>
+          <a
+            href="https://linkedin.com/in/varunbukka"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-xs font-mono border border-indigo-400/40 text-indigo-700 px-4 py-1.5 rounded-full hover:bg-indigo-50 transition-all duration-200 font-semibold"
+          >
+            LinkedIn ↗
+          </a>
+        </div>
       </nav>
 
       {/* Hero content */}
